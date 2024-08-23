@@ -1,0 +1,30 @@
+body {
+  background-color: #ffd0ff;
+  color: #000000;
+  text-align: center;
+}
+pre {
+  font-size: large;
+}
+a {
+  text-decoration: none;
+  padding: 2px 15px;
+}
+input,
+textarea,
+select {
+  display: inline-block;
+  background-color: #ffd0ff;
+  padding: 2px 15px;
+  margin: 4px;
+  border-radius: 0.5em;
+}
+a:hover {
+  border-bottom: #3d393d 2px solid;
+}
+input:hover {
+  background-color: #d17bd1;
+}
+form {
+  margin-top: 20px;
+}

@@ -1,0 +1,68 @@
+{
+  "version": "2.0.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "mp",
+      "request": "launch",
+      "mainClass": "mp",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "op",
+      "request": "launch",
+      "mainClass": "op",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "AverageMarks",
+      "request": "launch",
+      "mainClass": "AverageMarks",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "DropTable",
+      "request": "launch",
+      "mainClass": "DropTable",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "DeleteRecord",
+      "request": "launch",
+      "mainClass": "DeleteRecord",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "UpdateRecord",
+      "request": "launch",
+      "mainClass": "UpdateRecord",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "InsertRecord",
+      "request": "launch",
+      "mainClass": "InsertRecord",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "CreateTable",
+      "request": "launch",
+      "mainClass": "CreateTable",
+      "projectName": "op-jdbc_cfa19efe"
+    },
+    {
+      "type": "java",
+      "name": "Launch Connect",
+      "request": "launch",
+      "mainClass": "Connect",
+      "classpath": ["lib/mysql-connector-java-8.4.0.jar", "bin"]
+    }
+  ]
+}
